@@ -1,16 +1,8 @@
 # <div align="center">Hello!👋 I am Brylle!</div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=27F580&center=true&vCenter=true&random=false&width=435&lines=;Aspiring+Full+Stack+Developer" alt="Typing SVG" />
-</div>
-
-##
-
 <p align="center">BS CpE student at USC, aspiring to be a full-stack developer in the future!</p>
 
 ## 
-
-`I'm currently learning to use github, I'll eventually populate this place with my repositories!`
 
 ## Programming Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
