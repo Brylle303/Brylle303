@@ -1,4 +1,4 @@
-# <div align="center">Hello!👋 I am Brylle!</div>
+# <div align="center">Greetings!</div>
 
 <p align="center">BS CpE student at USC, aspiring to be a full-stack developer in the future!</p>
 
